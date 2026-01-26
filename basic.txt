@@ -1,3 +1,81 @@
 DSA IN JAVA........
-Q1. what is java ?
-=> 
+Q1.what is java ?..
+=>Java is a high-level, object-oriented programming language used to build software 
+and applications.
+Key points about Java
+
+1️⃣ Developed by: James Gosling (Sun Microsystems)
+2️⃣ Released in: 1995
+3️⃣ Platform-independent: Write Once, Run Anywhere
+4️⃣ Object-oriented: Based on classes and objects
+5️⃣ Secure & reliable: Used in banks and large systems
+6️⃣ Automatic memory management: Garbage Collection
+7️⃣ Widely used: Android apps, backend, enterprise software.
+
+Q2.Where Java is used ?
+
+1.Backend web development (Spring, Hibernate)
+
+2.Android app development
+
+3.Banking & finance systems
+
+4.Enterprise applications
+
+5.Desktop applications
+
+What it is
+
+JDK is used to create (write), compile, and run Java programs.
+
+What it contains
+
+JRE
+
+Compiler (javac)
+
+Development tools
+
+Daily-life example 🧰
+
+JDK = Full kitchen
+
+Gas stove
+
+Utensils
+
+Ingredients
+
+Recipe book
+
+👉 You can cook food (create programs) here.
+
+ JRE (Java Runtime Environment)
+What it is
+
+JRE is used to run Java programs, not to create them.
+
+What it contains
+
+JVM
+
+Java libraries
+
+Daily-life example 
+
+JRE = Gas stove + utensils
+
+You can heat and eat food (run programs)
+
+But you cannot cook new recipes (write programs)
+
+ JVM (Java Virtual Machine) (for clarity)
+What it is ?
+
+JVM actually runs the Java program.
+
+Daily-life example 
+
+JVM = Flame of the stove
+
+The flame does the real work of cooking (execution)
